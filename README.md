@@ -232,8 +232,8 @@ Local databases, API credentials, Python cache files, raw preprocessing files, a
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
-cd nizami
+git clone https://github.com/turki-1283/Nizami.git
+cd Nizami
 ```
 
 ### 2. Create a virtual environment
